@@ -16,7 +16,7 @@
     
     <div class="container" id="form-body">
         <div class="jumbotron">
-            <form>
+            <form method="POST" action="./index.html">
                 <div class="form-group">
                     <label for="password">*Password</label>
                     <input type="password" class="form-control" id="password" placeholder="Password" required>
@@ -29,14 +29,12 @@
 					<p id="toAdd"></p>
 				</div>
                 <div class="row justify-content-center">
-					<button id="submitBtn" type="button" class="btn btn-success">Start browsing</button>
+					<button id="submitBtn" type="submit" class="btn btn-success">Start browsing</button>
 				</div>
             </form>
         </div>
     </div>
     
-    <!-- JS Script -->
-    <script src="./scripts/app.js"></script>
     <!-- Bootstrap 4 JS and JQ CDN -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
