@@ -18,3 +18,13 @@ Any Linux Distro with which you are familiar with. I'm using Kali Linux, debian 
 **Install wireshark**
 
 Also if you can make a website on your own, which uses forms, I would recommend you to do on your own, anyways, I've created some files for this practical, which can be downloaded and you can follow the practical. 
+
+
+
+
+
+
+
+
+### Note for users.
+> The scripts file is not actually required. No Javascript is used for checking the password. This has been done, so that it would be easy to analyse the packets.
