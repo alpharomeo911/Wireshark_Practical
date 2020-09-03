@@ -22,12 +22,19 @@ Also if you can make a website on your own, which uses forms, I would recommend 
 
 ### Steps to follow:
 **Enable monitor mode in wireless adapter**
+
 **Configure apache2 server**
+
 **Stop network manager**
+
 **Flush Ip Tables**
+
 **Start dnsmasq with configuration(provided in resources)**
+
 **Start hostapd in background (config in resources)**
+
 **That's all**
+
 
 
 
