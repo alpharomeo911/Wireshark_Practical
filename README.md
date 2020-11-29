@@ -1,5 +1,5 @@
 # Wireshark_Practical
-Use of wireshark to trace the content of packets andtry to retrive paswoord from a website using HTTP encryption
+Use of wireshark to trace the content of packets andtry to retrive pasword from a website using HTTP encryption
 
 ## Captive Portal
 We'll be creating a HTTP website, similar to a Captive Portal, and creating another fake access point to capture the password, which could be achieved by SQL, but why not use wireshark.
